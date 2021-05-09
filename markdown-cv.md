@@ -38,3 +38,31 @@ October 2012- November 2014
 * Multi-tasker
 * 	Mathematical aptitude
 --- 
+## EXPERIENCE
+---
+
+**Get traning with codi** 
+
+May 2021-- till now 
+
+ **Zaytouna Pharmacy, Cashier**
+
+ December 2017- September 2020
+
+ **Duties:**
+ * Reconcile cash receipts, cash balance with the total sales report on a daily basis
+ * Operate POS cash register, and balance cash drawers on a daily basis
+ * Provided friendly and attentive responses to customer queries and issues.
+ * Trained new hires in cash register and cash handling procedures
+
+ **Arabian Construction Company, Storekeeper**
+
+ April 2015 - September 2017
+
+ **Duties:** 
+
+ * Assist cost control in the monthly stock-taking
+ * 	Notify manager of low stock levels in a timely manner
+ * Make periodical checks between records and actual stock and investigate any discrepancies.
+ * Effective management of projects, and workload prioritization
+ ---
