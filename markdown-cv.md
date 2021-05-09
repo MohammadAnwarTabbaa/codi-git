@@ -66,4 +66,4 @@ May 2021-- till now
  * Make periodical checks between records and actual stock and investigate any discrepancies.
  * Effective management of projects, and workload prioritization
  ---
- ![my photo ](anwars-photo.JPG)
+ ![my photo ](https://raw.githubusercontent.com/MohammadAnwarTabbaa/codi-git/main/anwars-photo.jpg)
